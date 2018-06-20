@@ -1,0 +1,6 @@
+Bonjour,
+
+Une urgence a été déclarée. Elle concerne :
+URGENCE_RELEVEE
+
+MediPep vous remercie de votre collaboration.

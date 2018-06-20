@@ -1,0 +1,11 @@
+[Rapport Medi’Pep] Déclaration d’une URGENCE
+Bonjour,
+
+Une URGENCE a été déclarée le date à heure.
+Si vous voulez consulter toutes les informations sur cette urgence cliquer sur le lien suivant :
+Lien hypertexte
+
+Attention : Medi'Pep est un dispositif d'aide à l'information, il vous appartient de vérifier à
+chaque fois l'exactitude des informations transmises.
+
+Medi’Pep vous remercie de votre collaboration.

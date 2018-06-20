@@ -1,0 +1,6 @@
+Bonjour,
+
+Civilité NOM a déclenché une alerte de consultation sur les mesures suivantes :
+MESURES_RELEVEE
+
+MediPep vous remercie de votre collaboration

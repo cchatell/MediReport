@@ -1,7 +1,8 @@
-[Rapport Medi’Pep] Civilité NOM
+[Rapport Medi’Pep] URGENCE Civilité NOM
 Bonjour,
 
 Civilité NOM a rendu visite à Medi’Pep le date à heure.
+Au moins un seuil a été dépassé.
 Si vous voulez consulter toutes les informations sur cette visite cliquer sur le lien suivant :
 Lien hypertexte
 
@@ -9,4 +10,4 @@ Attention : Medi'Pep est un dispositif d'aide à l'information, il vous appartie
 chaque fois l'exactitude des informations transmises sur l'identité des déclarants, notamment
 par un contrôle de leur photo.
 
-Medi’Pep vous remercie de votre collaboration.
+Medi’Pep vous remercie de votre collaboration
