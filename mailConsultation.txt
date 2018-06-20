@@ -1,0 +1,6 @@
+Rapport Medi’Pep
+Bonjour, 
+Civilité Prénom NOM a rendu visite à Medi’Pep le date à heure.
+Si vous voulez consulter toutes les informations sur cette visite cliquer sur le lien suivant.
+Lien hypertexte
+Medi’Pep vous remercie de votre collaboration.
